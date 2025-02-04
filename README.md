@@ -53,11 +53,26 @@ Other features
     install 'github copilot labs' if needed
 
     To open chat press shipt+ctrl+p
-    
-    
-   
-   
-   
+  
 1.4. getting the repo 
+clone the repo (are going work with python)
+https://github.com/LinkedInLearning/github-practical-copilot-4412871
+
+1.5 Basic Autocomplete
+  ```python
+# convert.py
+
+   ```
+  ```
+
+  ```
+ 1.6 Auto completions panel
+   type the requirement in comments
+   press cmd+shift+p
+   then select "Github copilot: open completions panel' 
+   now we could see some suggestions for the comments there we could accept any of the suggestions
+   
+
+   
 
   
