@@ -71,6 +71,13 @@ https://github.com/LinkedInLearning/github-practical-copilot-4412871
    press cmd+shift+p
    then select "Github copilot: open completions panel' 
    now we could see some suggestions for the comments there we could accept any of the suggestions
+
+   or
+   type the requirement in comments
+   select all the comments you typed
+   press cmd+enter
+   now we could see some suggestions for the comments there we could accept any of the suggestions
+   
    
 
    
