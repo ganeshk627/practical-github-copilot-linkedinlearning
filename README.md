@@ -80,6 +80,14 @@ https://github.com/LinkedInLearning/github-practical-copilot-4412871
    
    
 
+
+2. Using Copilot chat
+
+
+The chat panel
+
+   
+
    
 
   
